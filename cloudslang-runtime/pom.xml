@@ -10,7 +10,7 @@
     -->
     <parent>
         <artifactId>cloudslang</artifactId>
-        <groupId>io.cloudslang.lang</groupId>
+        <groupId>natasha.cloudslang.lang</groupId>
         <version>0.7.31-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>

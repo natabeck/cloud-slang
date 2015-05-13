@@ -8,7 +8,7 @@
         The Apache License is available at
         http://www.apache.org/licenses/LICENSE-2.0
     -->
-    <groupId>io.cloudslang.lang</groupId>
+    <groupId>natasha.cloudslang.lang</groupId>
     <artifactId>cloudslang</artifactId>
     <version>0.7.31-SNAPSHOT</version>
     <packaging>pom</packaging>
