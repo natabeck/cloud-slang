@@ -8,9 +8,9 @@
         The Apache License is available at
         http://www.apache.org/licenses/LICENSE-2.0
     -->
-    <groupId>natasha.cloudslang.lang</groupId>
+    <groupId>oobranch.cloudslang.lang</groupId>
     <artifactId>cloudslang</artifactId>
-    <version>0.7.32-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>A DSL for writing flows</description>
@@ -32,8 +32,8 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <score.group>natasha.cloudslang</score.group>
-        <score.version>0.1.279</score.version>
+        <score.group>oobranch.cloudslang</score.group>
+        <score.version>0.2.0</score.version>
         <spring.version>4.1.4.RELEASE</spring.version>
     </properties>
 
