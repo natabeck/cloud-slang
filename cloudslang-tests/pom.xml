@@ -12,8 +12,8 @@
 
     <parent>
         <artifactId>cloudslang</artifactId>
-        <groupId>oobranch.cloudslang.lang</groupId>
-        <version>1.0.1-SNAPSHOT</version>
+        <groupId>io.cloudslang.lang</groupId>
+        <version>0.7.36-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 

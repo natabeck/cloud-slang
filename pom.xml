@@ -8,9 +8,9 @@
         The Apache License is available at
         http://www.apache.org/licenses/LICENSE-2.0
     -->
-    <groupId>oobranch.cloudslang.lang</groupId>
+    <groupId>io.cloudslang.lang</groupId>
     <artifactId>cloudslang</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>0.7.36-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>A DSL for writing flows</description>
@@ -23,17 +23,17 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:https://github.com/natabeck/cloud-slang</connection>
-        <developerConnection>scm:git:git@github.com:natabeck/cloud-slang.git</developerConnection>
-        <url>https://github.com/natabeck/cloud-slang</url>
+        <connection>scm:git:https://github.com/CloudSlang/cloud-slang.git</connection>
+        <developerConnection>scm:git:git@github.com:CloudSlang/cloud-slang.git</developerConnection>
+        <url>https://github.com/CloudSlang/cloud-slang.git</url>
         <tag>master</tag>
     </scm>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <score.group>oobranch.cloudslang</score.group>
-        <score.version>0.2.1</score.version>
+        <score.group>io.cloudslang</score.group>
+        <score.version>0.1.280</score.version>
         <spring.version>4.1.4.RELEASE</spring.version>
     </properties>
 
